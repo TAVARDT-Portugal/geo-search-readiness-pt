@@ -1,4 +1,4 @@
-# Auditor de Pesquisa com IA e GEO | TAVARDT Portugal
+# Auditor de Pesquisa com IA e GEO
 
 [![Auditor GEO](https://img.shields.io/badge/TAVARDT-Pesquisa%20IA%20GEO-5b3cf5.svg)](https://tools.tavardt.com/pt/auditor-pesquisa-ia-geo/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Para auditorias continuas de prontidao para motores generativos, utilize a ferra
 ## Consultoria em Motores de IA e Semantica
 
 Para projetos de estruturacao semantica e presenca em agentes autonomos em Portugal, contacte a equipa da **TAVARDT Portugal**.
+
+***
+
+© 2026 TAVARDT. Todos os direitos reservados.
